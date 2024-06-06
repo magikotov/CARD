@@ -1,1 +1,1 @@
-<img src = 'MyCard'>
+<img src = 'MyCard.png'>
